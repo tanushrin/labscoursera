@@ -1,2 +1,2 @@
 # labscoursera
-coursera lans
+coursera labs
